@@ -1,14 +1,14 @@
 # Breast_cancer_wisconsin
 ##Breast_cancer_wisconsin_classification_task
 
-##Objective: 
+Objective: 
 The aim of this project is to build a robust machine learning model to classify breast cancer diagnosis (Malignant or Benign) based on the Breast Cancer Wisconsin Dataset.
 
 ##Dataset Overview:
 Source: UCI Machine Learning Repository and https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data .
-Dataset contains 569 samples with 30 features representing various diagnostic measurements Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image.
-![image](https://github.com/user-attachments/assets/de7e5817-fa09-403d-be73-39855a7f6238)
-##Structure:
+Dataset contains 569 samples with 30 features representing various diagnostic measurements. Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image.
+
+Structure:
 
 project-name/
 │
