@@ -11,8 +11,11 @@ Dataset contains 569 samples with 30 features representing various diagnostic me
 Structure:
 
 project-name/
+
 │
+
 ├── notebooks/         # Jupyter Notebooks (.ipynb)
+
 │   ├── Breast_cancer_wisconsin_1.ipynb
 │   ├── 2_breast_cancer_wisconsin_rf.ipynb
 │   ├── 3_breast_cancer_wisconsi_SVR.ipynb
