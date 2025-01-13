@@ -10,7 +10,7 @@ Dataset contains 569 samples with 30 features representing various diagnostic me
 
 Structure:
 
-project-name/ Breas_cancer_wisconsin:
+project-name/ Breast_cancer_wisconsin:
 
 Notebooks: #Jupiter Notebooks
 
